@@ -1,0 +1,7 @@
+.icon-AdminSimpleBlog:before {
+	content: '\f0f6';
+}
+
+li.ph_simpleblog_icon a {
+	background: url(../logo.png) no-repeat center 25px #f8f8f8;
+}

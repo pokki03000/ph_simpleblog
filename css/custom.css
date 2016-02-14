@@ -1,0 +1,19 @@
+/** custom css for SimpleBlog **/
+.categ {
+    float: left;
+    background-color: beige;
+    margin: 15px 16px 25px 0;
+    width: 390px;
+    padding: 1px;
+    border-radius: 10px;
+}
+.categ p {
+    text-align: center;
+}
+.categ img.img-responsive {
+    border-radius: 0 0 10px 10PX;
+    margin-top: -20px;
+}
+.categ img {
+    height: 90px;
+}
